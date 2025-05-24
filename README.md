@@ -27,7 +27,7 @@ Check out the live demo of the website: [Todo Task List](https://codewithabubakr
 
    ✅ **Minimal & Clean UI** – A distraction-free interface for better focus.
 
-   Would you like additional features like task categories, due dates, or reminders? 🚀
+   Would you like additional features like task categories, due dates, or reminders?🚀
 
 ## Technologies Used
 - HTML5
