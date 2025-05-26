@@ -13,6 +13,7 @@ A simple, intuitive, and responsive task management web app that allows users to
 
 ## Demo
 Check out the live demo of the website: [Todo Task List](https://codewithabubakr.github.io/todo-task-list/)
+
 ## Features
 - Essential Features for Task Management.
 
